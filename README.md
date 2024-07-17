@@ -39,3 +39,23 @@
 
 ## Canvas Básico 15
 ![Canvas15](img/canvasbasico15.png "Canvas Básico 15")
+
+# Animaciones 
+
+## Animación Canvas 
+![ACanvas](img/ac.png "Animación Canvas")
+
+## Animación Canvas 2
+![ACanvas2](img/ac2.png "Animación Canvas 2")
+
+## Animación Canvas 3
+![ACanvas03](img/ac3.png "Animación Canvas 3")
+
+## Animación Canvas 4
+![ACanvas4](img/ac4.png "Animación Canvas 4")
+
+## Cbc
+![Cbc](img/cbc.png "Cbc")
+
+## Animación Canvas 4
+![CanvasA](img/canvasanimacionn.png "Canvas Animación")
