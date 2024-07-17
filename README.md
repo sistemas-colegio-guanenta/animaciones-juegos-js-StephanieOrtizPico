@@ -17,3 +17,25 @@
 - Se verifica si la variable se creó correctamente
 - En realidad se trabaja con el **contexto** de canvas 2d. Se crea una variable **ctx** con la cual se manipula el canvas.
 - Se verifica que el contexto se haya creado de manera exitosa, dando la bienvenida por medio de un alert(), o advirtiendo un error de creación de contexto.
+
+
+## Canvas Básico 03
+![Canvas03](img/canvasbasico03.png "Canvas Básico 03")
+
+## Canvas Básico 04
+![Canvas04](img/canvasbasico04.png "Canvas Básico 04")
+
+## Canvas Básico 05
+![Canvas05](img/canvasbasico05.png "Canvas Básico 05")
+
+## Canvas Básico 06
+![Canvas06](img/canvasbasico06.png "Canvas Básico 06")
+
+## Canvas Básico 07
+![Canvas07](img/canvasbasico07.png "Canvas Básico 07")
+
+## Canvas Básico 08
+![Canvas08](img/canvasbasico08.png "Canvas Básico 08")
+
+## Canvas Básico 15
+![Canvas15](img/canvasbasico15.png "Canvas Básico 15")
